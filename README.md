@@ -33,7 +33,7 @@ PDF processing
 SQLite (for tracking operations and undo functionality)
 Setup
 Clone the repository
-git clone https://github.com/your-username/ai-file-organizer.git
+git clone https://github.com/nayotc/ai-file-organizer.git
 cd ai-file-organizer
 Configure API key
 export GEMINI_API_KEY=your_api_key_here
